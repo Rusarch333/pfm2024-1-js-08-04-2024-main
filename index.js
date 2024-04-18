@@ -1,9 +1,9 @@
 /*
     аргумент: 
 
-    автомобіль: volvo=60000, smart=25000; 
-    фрукти з цінами за кілограм: ананас=0.99, яблуко=1.29, лимон=1.69, апельсин=1.50; 
+    автомобіль: volvo=60000, smart=25000;
     одяг: футболка: зелений=10, червоний=16, чорний=25; 
+    фрукти з цінами за кілограм: ананас=0.99, яблуко=1.29, лимон=1.69, апельсин=1.50; 
     овочі: картопля, морква, цибуля, часник, селера; 
 */
 
@@ -11,14 +11,14 @@ const priceAutoVolvo = 60000;
 const priceAutoSmart = 25000;
 const priceAutoMercedes = 30000; // Не було у оригінальній умові, додаю
 
+const priceTShirtGreen = 10;
+const priceTShirtRed = 16;
+const priceTShirtBlack = 25;
+
 const pricePineapplePerKG = 0.99;
 const priceApplePerKG = 1.29;
 const priceLimonPerKG = 1.69;
 const priceOrangePerKG = 1.5;
-
-const priceTShirtGreen = 10;
-const priceTShirtRed = 16;
-const priceTShirtBlack = 25;
 
 const pricePotatoesPerKG = 10;
 const priceCarrotsPerKG = 20;
