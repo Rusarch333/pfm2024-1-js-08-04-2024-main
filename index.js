@@ -62,7 +62,7 @@ const getBillPrice = function (good) {
 console.log("priceAutoMercedes =", priceAutoMercedes);
 console.log("priceOrangePerKG =", priceOrangePerKG);
 console.log("priceTsibulyaPerKG =", priceTsibulyaPerKG);
-console.log("Рахунок для марії:", getBillPrice("tsibulya"), "\n");
+console.log("Рахунок для Марії:", getBillPrice("tsibulya"), "\n");
 
 // Рахунок для Джорджа: volvo, якщо він купує автомобіль
 console.log("priceAutoVolvo =", priceAutoVolvo);
