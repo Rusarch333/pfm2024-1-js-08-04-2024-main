@@ -58,7 +58,7 @@ const getBillPrice = function (good) {
 };
 
 // Рахунок для Марії: Mercedes + апельсин + цибуля, якщо Марія купує цибулю;
-// По умові ми не продаємо Мерседеси :), тому такий рахунок буде сформувати неможливо, але я дописав його
+// По умові ми не продаємо мерседеси :), тому такий рахунок буде сформувати неможливо, але я дописав його
 console.log("priceAutoMercedes =", priceAutoMercedes);
 console.log("priceOrangePerKG =", priceOrangePerKG);
 console.log("priceTsibulyaPerKG =", priceTsibulyaPerKG);
